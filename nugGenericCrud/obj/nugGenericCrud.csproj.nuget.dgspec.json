@@ -5,10 +5,10 @@
   },
   "projects": {
     "C:\\Users\\MikeB\\source\\repos3\\MichnBruno\\github\\GenericCrudnugetCore2.1\\nugGenericCrud\\nugGenericCrud.csproj": {
-      "version": "1.2.2",
+      "version": "1.0.0",
       "restore": {
         "projectUniqueName": "C:\\Users\\MikeB\\source\\repos3\\MichnBruno\\github\\GenericCrudnugetCore2.1\\nugGenericCrud\\nugGenericCrud.csproj",
-        "projectName": "nugGenericCrud",
+        "projectName": "nugGenericCrudCore2.1",
         "projectPath": "C:\\Users\\MikeB\\source\\repos3\\MichnBruno\\github\\GenericCrudnugetCore2.1\\nugGenericCrud\\nugGenericCrud.csproj",
         "packagesPath": "C:\\Users\\MikeB\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\MikeB\\source\\repos3\\MichnBruno\\github\\GenericCrudnugetCore2.1\\nugGenericCrud\\obj\\",

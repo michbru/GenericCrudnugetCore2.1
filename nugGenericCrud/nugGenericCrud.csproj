@@ -3,11 +3,11 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <PackageId>nugGenericCrud</PackageId>
+    <PackageId>nugGenericCrudCore2.1</PackageId>
     <Product>nugGenericCrud</Product>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <Version>1.2.2</Version>
-    <AssemblyVersion>1.2.2.0</AssemblyVersion>
+    <Version>1.0</Version>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
     <PackageReleaseNotes>Bug Fix on update/delete</PackageReleaseNotes>
     <Description>Bug Fix on update/delete</Description>
     <PackageProjectUrl>Stay Tuned.</PackageProjectUrl>
