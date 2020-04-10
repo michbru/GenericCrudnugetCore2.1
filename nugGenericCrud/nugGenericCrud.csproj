@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>nugGenericCrud</PackageId>
+    <Product>nugGenericCrud</Product>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Version>1.2.2</Version>
+    <AssemblyVersion>1.2.2.0</AssemblyVersion>
+    <PackageReleaseNotes>Bug Fix on update/delete</PackageReleaseNotes>
+    <Description>Bug Fix on update/delete</Description>
+    <PackageProjectUrl>Stay Tuned.</PackageProjectUrl>
+    <RepositoryUrl>Coming Soon</RepositoryUrl>
+    <RepositoryType>will be git</RepositoryType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" Version="2.1.1" />
+  </ItemGroup>
+
+</Project>

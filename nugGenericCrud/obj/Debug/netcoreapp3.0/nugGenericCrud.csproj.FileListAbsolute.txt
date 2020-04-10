@@ -1,0 +1,5 @@
+C:\zzzXfer\curr\nugetGenericCrud\nugGenericCrud\nugGenericCrud\bin\Debug\netcoreapp3.0\nugGenericCrud.deps.json
+C:\zzzXfer\curr\nugetGenericCrud\nugGenericCrud\nugGenericCrud\bin\Debug\netcoreapp3.0\nugGenericCrud.dll
+C:\zzzXfer\curr\nugetGenericCrud\nugGenericCrud\nugGenericCrud\obj\Debug\netcoreapp3.0\nugGenericCrud.csprojAssemblyReference.cache
+C:\zzzXfer\curr\nugetGenericCrud\nugGenericCrud\nugGenericCrud\obj\Debug\netcoreapp3.0\nugGenericCrud.AssemblyInfoInputs.cache
+C:\zzzXfer\curr\nugetGenericCrud\nugGenericCrud\nugGenericCrud\obj\Debug\netcoreapp3.0\nugGenericCrud.AssemblyInfo.cs

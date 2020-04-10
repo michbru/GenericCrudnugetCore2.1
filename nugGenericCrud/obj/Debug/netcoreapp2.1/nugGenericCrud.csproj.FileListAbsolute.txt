@@ -1,0 +1,9 @@
+C:\Users\MikeB\source\repos3\MichnBruno\github\GenericCrudnugetCore2.1\nugGenericCrud\bin\Debug\netcoreapp2.1\nugGenericCrud.deps.json
+C:\Users\MikeB\source\repos3\MichnBruno\github\GenericCrudnugetCore2.1\nugGenericCrud\bin\Debug\netcoreapp2.1\nugGenericCrud.runtimeconfig.json
+C:\Users\MikeB\source\repos3\MichnBruno\github\GenericCrudnugetCore2.1\nugGenericCrud\bin\Debug\netcoreapp2.1\nugGenericCrud.runtimeconfig.dev.json
+C:\Users\MikeB\source\repos3\MichnBruno\github\GenericCrudnugetCore2.1\nugGenericCrud\bin\Debug\netcoreapp2.1\nugGenericCrud.dll
+C:\Users\MikeB\source\repos3\MichnBruno\github\GenericCrudnugetCore2.1\nugGenericCrud\bin\Debug\netcoreapp2.1\nugGenericCrud.pdb
+C:\Users\MikeB\source\repos3\MichnBruno\github\GenericCrudnugetCore2.1\nugGenericCrud\obj\Debug\netcoreapp2.1\nugGenericCrud.AssemblyInfoInputs.cache
+C:\Users\MikeB\source\repos3\MichnBruno\github\GenericCrudnugetCore2.1\nugGenericCrud\obj\Debug\netcoreapp2.1\nugGenericCrud.AssemblyInfo.cs
+C:\Users\MikeB\source\repos3\MichnBruno\github\GenericCrudnugetCore2.1\nugGenericCrud\obj\Debug\netcoreapp2.1\nugGenericCrud.dll
+C:\Users\MikeB\source\repos3\MichnBruno\github\GenericCrudnugetCore2.1\nugGenericCrud\obj\Debug\netcoreapp2.1\nugGenericCrud.pdb

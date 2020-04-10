@@ -1,0 +1,9 @@
+C:\zzzXfer\curr\nugetGenericCrud\nugGenericCrud\nugGenericCrud\bin\Debug\netcoreapp2.2\nugGenericCrud.deps.json
+C:\zzzXfer\curr\nugetGenericCrud\nugGenericCrud\nugGenericCrud\bin\Debug\netcoreapp2.2\nugGenericCrud.runtimeconfig.json
+C:\zzzXfer\curr\nugetGenericCrud\nugGenericCrud\nugGenericCrud\bin\Debug\netcoreapp2.2\nugGenericCrud.runtimeconfig.dev.json
+C:\zzzXfer\curr\nugetGenericCrud\nugGenericCrud\nugGenericCrud\bin\Debug\netcoreapp2.2\nugGenericCrud.dll
+C:\zzzXfer\curr\nugetGenericCrud\nugGenericCrud\nugGenericCrud\bin\Debug\netcoreapp2.2\nugGenericCrud.pdb
+C:\zzzXfer\curr\nugetGenericCrud\nugGenericCrud\nugGenericCrud\obj\Debug\netcoreapp2.2\nugGenericCrud.AssemblyInfoInputs.cache
+C:\zzzXfer\curr\nugetGenericCrud\nugGenericCrud\nugGenericCrud\obj\Debug\netcoreapp2.2\nugGenericCrud.AssemblyInfo.cs
+C:\zzzXfer\curr\nugetGenericCrud\nugGenericCrud\nugGenericCrud\obj\Debug\netcoreapp2.2\nugGenericCrud.dll
+C:\zzzXfer\curr\nugetGenericCrud\nugGenericCrud\nugGenericCrud\obj\Debug\netcoreapp2.2\nugGenericCrud.pdb
